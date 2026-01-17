@@ -14,6 +14,6 @@ I'm a second-year computer science student at the University of Guelph, currentl
 
 
 ## 📫 Contact Me
-- Email: [naveedtalha11@gmail.com](mailto:naveedtalha11@gmail.com)
+- Email: [talhanaveed925@gmail.com](mailto:talhanaveed925@gmail.com)
 - LinkedIn: [linkedin.com/in/talha-naveed](https://www.linkedin.com/in/talha-naveed-b36290292/)
 - Portfolio: [https://talhan.vercel.app/](https://talhan.vercel.app/)
